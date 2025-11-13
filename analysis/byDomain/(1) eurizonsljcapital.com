@@ -1,0 +1,1 @@
+Research@eurizonsljcapital.com

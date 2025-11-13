@@ -1,0 +1,10 @@
+BoardStThomas@aol.com
+StanPottinger@aol.com
+behnbom@aol.com
+dkiesg@aol.com
+dkiesq@aol.com
+haddadfm@aol.com
+joannMST@aol.com
+jokeland@aol.com
+wcbcg@aol.com
+wcblaw@aol.com

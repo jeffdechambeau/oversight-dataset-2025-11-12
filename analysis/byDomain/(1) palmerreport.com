@@ -1,0 +1,1 @@
+billpalmer@palmerreport.com

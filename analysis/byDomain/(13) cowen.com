@@ -1,0 +1,13 @@
+andrew.charles@cowen.com
+charles.neivert@cowen.com
+charles.rhyee@cowen.com
+cowen.research@cowen.com
+doug.schenkel@cowen.com
+eric.assaraf@cowen.com
+jeffrey.osborne@cowen.com
+john.blackledge@cowen.com
+john.kernan@cowen.com
+michael.cella@cowen.com
+oliver.chen@cowen.com
+phil.nadeau@cowen.com
+vivien.azer@cowen.com

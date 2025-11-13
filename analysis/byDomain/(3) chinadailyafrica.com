@@ -1,0 +1,3 @@
+editor@chinadailyafrica.com
+enquiries@chinadailyafrica.com
+subscription@chinadailyafrica.com

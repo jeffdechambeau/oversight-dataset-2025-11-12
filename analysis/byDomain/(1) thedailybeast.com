@@ -1,0 +1,1 @@
+emails@thedailybeast.com

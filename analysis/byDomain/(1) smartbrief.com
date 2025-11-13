@@ -1,0 +1,1 @@
+politics@smartbrief.com
