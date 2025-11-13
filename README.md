@@ -81,33 +81,6 @@ Email files contain standard email headers:
 
 ## Usage
 
-### Finding emails by date
-```bash
-# All emails from a specific date
-ls output/email/byDate/2016/11/10/
-
-# All emails from a year
-find output/email/byDate/2016 -name "*.txt"
-```
-
-### Finding emails by domain
-```bash
-# All emails from a specific domain
-cat "analysis/emails/byDomain/(49) gmail.com"
-```
-
-### Finding emails by name
-```bash
-# All emails sent to a specific person
-cat "analysis/names/byFreq/(659) jeffrey_E"
-```
-
-### Finding high importance emails
-```bash
-# All high importance emails
-ls output/email/importanceHigh/
-```
-
 ## Notes
 
 - All email files have been successfully parsed for dates (100% coverage)
